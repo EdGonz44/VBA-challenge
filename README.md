@@ -1,6 +1,8 @@
 # VBA-challenge
 Scripts and other work related to VBA assignment.
 
+#VBA Code
+VBA code used for this module [VBA-code_stockSorter](VBA-m2files/Quarterly_VBA-stockSorter.bas)
 
 
 #Screenshots of results
